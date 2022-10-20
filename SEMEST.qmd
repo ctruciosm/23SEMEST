@@ -119,10 +119,10 @@ format:
 - Lidar com pessõas não é fácil;
 - Sentimento de dono;
 - As pessoas não sabem o que querem;
-- Quando sabem não tem dado para isso;
+- Quando sabem, não existe dado para isso;
 - O que você fizer para a empresa, é da empresa;
 - Tudo é pra ontém;
-- Tem muito NA! -  Imputa! - mas são 80\%!
+- Tem muito NA! -  Imputa! - mas são 80\%! - Imputa!
 :::
 
 :::
@@ -224,14 +224,11 @@ format:
 - Orientar alunos;
 - Escrever artigos;
 - Participar de congressos;
-- Comisões administrativas;
-- Comisões organizadoras;
-- Comisões científicas;
-- Parecer de artigos;
-- Parecer de projetos de pesquisa;
+- Comisões administrativas/organizadoras/científicas;
+- Parecer de artigos/projetos de pesquisa;
 - Elaborar e submeter projetos de pesquisa;
 - Reuniões dos colegiados (Dpto, congregação, etc);
-- Extensão.
+- Projetos de extensão.
 :::
 
 
