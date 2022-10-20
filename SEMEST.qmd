@@ -2,7 +2,7 @@
 title: 'Academia, mercado e _otras cositas más_ :'
 subtitle: "Uma conversa honesta baseada na própria experiência."
 author: "Carlos Trucíos (IMECC/UNICAMP)"
-institute: "23º Semana da Estatística da UNICAMP"
+institute: "23º Semana da Estatística da UNICAMP."
 date: "20 de outubro de 2022."
 format:
   revealjs:
