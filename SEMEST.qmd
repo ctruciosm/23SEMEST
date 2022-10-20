@@ -1,13 +1,14 @@
 ---
-title: "Academia, mercado e _otras cositas más_ :"
+title: 'Academia, mercado e _otras cositas más_ :'
 subtitle: "Uma conversa honesta baseada na própria experiência."
 author: "Carlos Trucíos (IMECC/UNICAMP)"
-institute: "23º Semana da Estatística, UNICAMP"
+institute: "23º Semana da Estatística da UNICAMP"
 date: "20 de outubro de 2022."
 format:
   revealjs:
     theme: solarized
-    menu: false
+    menu: true
+    smaller: false
     scrollable: true
     logo: imagens/imecc.png
     footer: "ctruciosm.github.io"
@@ -106,21 +107,20 @@ format:
 
 :::: {.columns}
 
-::: {.column width="50%"}
+::: {.column width="40%"}
 
-![](imagens/the_office.gif){.absolute top=200 left=0 width="450" height="400"}
+![](imagens/the_office.gif){.absolute top=200 left=0 width="400" height="350"}
 
 :::
 
-::: {.column width="50%"}
+::: {.column width="60%"}
 
 ::: {.incremental}
 - Lidar com pessõas não é fácil;
 - Sentimento de dono;
 - As pessoas não sabem o que querem;
 - Quando sabem não tem dado para isso;
-- Tudo o que você fizer para a empresa, é da empresa;
-- Quase sempre tem um mala;
+- O que você fizer para a empresa, é da empresa;
 - Tudo é pra ontém;
 - Tem muito NA! -  Imputa! - mas são 80\%!
 :::
@@ -167,8 +167,8 @@ format:
 - O caminho não é facil;
 - Viver de bolsa;
 - "Mas você só estuda?";
+- "Você trabalha ou só da aula?"
 - Sim, estudar consome teu tempo inteiro;
-- "Você só da aula ou também trabalha?";
 - Frustração;
 - Sentimento de que "não presta" pra isso.
 :::
@@ -236,9 +236,9 @@ format:
 
 
 
-# Otras cositas más
+# _Otras cositas más_
 
-## Outras cositas más: Dicas
+## _Outras cositas más_ : Dicas
 
 ::: {.incremental}
 - Desenvolva as _soft skills_;
@@ -255,13 +255,14 @@ format:
 
 
 
-## Outras cositas más: Q&A
+## _Outras cositas más_ : Q&A
 
 
 ::: {.incremental}
 - R ou Python?
 - Academia ou Mercado?
 - Professor também é gente?
+- Vou fazer pós-graduação para depois entrar como Junior?
 - Quais coisas tem interesse em aprender/fazer no futuro próximo?
 :::
 
