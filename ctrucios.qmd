@@ -1,0 +1,300 @@
+---
+title: "Academia, mercado e _otras cositas más_ :"
+subtitle: "Uma conversa honesta baseada na própria experiência."
+author: "Carlos Trucíos (IMECC/UNICAMP)"
+institute: "23º Semana da Estatística, UNICAMP"
+date: "20 de outubro de 2022."
+format:
+  revealjs:
+    theme: solarized
+    menu: false
+    scrollable: true
+    logo: imagens/imecc.png
+    footer: "ctruciosm.github.io"
+---
+
+
+## Quem sou eu?
+
+### Formação
+
+- Bacharel em Estatística (UNMSM, 2009);
+- Mestre em Estatística (UNICAMP, 2012);
+- Doutor em Estatística (UNICAMP, 2016);
+- Pósdoc em Economia (FGV, 2019).
+
+
+## Quem sou eu?
+### Experiência (Mercado): 2019 -- 2020
+
+
+- Startup;
+- Empresa tradicional;
+- Instrutor de cursos online;
+- Consultoria.
+
+
+. . . 
+
+
+![](imagens/boletos_meme.jpg){.absolute top=300 left=550 width="400" height="350"}
+
+
+## Quem sou eu?
+### Experiência (Academia)
+
+- Professor Visitante UFABC (2020)
+- Professor Adjunto UFRJ (2021-2022)
+- Professor Doutor UNICAMP (2022 - )
+
+
+
+# Mercado
+
+## Mercado:
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](imagens/mercado_meme.jpg){.absolute bottom=120 left=0 width="450" height="400"}
+
+:::
+
+::: {.column width="50%"}
+
+![](imagens/lista_meme.jpg)
+
+:::
+
+::::
+
+## Mercado: Pontos positivos
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](imagens/la_plata.gif){.absolute top=200 left=0 width="450" height="400"}
+
+:::
+
+::: {.column width="50%"}
+
+::: {.incremental}
+- Salário;
+- Beneficios (VA, VR, Plano, GymPass, etc);
+- Desafios interessantes;
+- Plano de carreira;
+- Capacitações;
+- Participação nos lucros;
+- Happy Hour.
+
+:::
+
+:::
+
+::::
+
+
+
+
+## Mercado: Pontos negativos
+
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](imagens/the_office.gif){.absolute top=200 left=0 width="450" height="400"}
+
+:::
+
+::: {.column width="50%"}
+
+::: {.incremental}
+- Lidar com pessõas não é fácil;
+- Sentimento de dono;
+- As pessoas não sabem o que querem;
+- Quando sabem não tem dado para isso;
+- Tudo o que você fizer para a empresa, é da empresa;
+- Quase sempre tem um mala;
+- Tudo é pra ontém;
+- Tem muito NA! -  Imputa! - mas são 80\%!
+:::
+
+:::
+
+::::
+
+
+
+## Mercado: Dia a Dia
+
+
+::: {.incremental}
+- Trabalhar com banco de dados (80-90\%);
+- Aplicar modelos (20-10\%);
+- Reuniões que poderiam ser um email ocupam grande parte da sua agenda;
+- Reuniões importantes;
+- Você não trabalha sozinho(a) nem isolado(a);
+- Precisa entender o negocio (e isso não é da noite pro dia);
+- Happy hour! (afinal, tem que ter algum lugar para falar mal do chefe, né?)
+:::
+
+
+
+# Academia
+
+## Academia: Pontos negativos
+
+
+
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+![](imagens/submitted_meme.jpg){.absolute top=200 left=0 width="400" height="400"}
+
+:::
+
+::: {.column width="60%"}
+
+::: {.incremental}
+- O caminho não é facil;
+- Viver de bolsa;
+- "Mas você só estuda?";
+- Sim, estudar consome teu tempo inteiro;
+- "Você só da aula ou também trabalha?";
+- Frustração;
+- Sentimento de que "não presta" pra isso.
+:::
+
+:::
+
+::::
+
+
+
+
+
+
+## Academia: Pontos positivos
+
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+![](imagens/manuscript-accepted.jpg){.absolute top=200 left=0 width="400" height="400"}
+
+:::
+
+::: {.column width="60%"}
+
+::: {.incremental}
+- Teus artigos são sempre teus!; 
+- Nada monotono;
+- Sempre tem coisa nova para fazer;
+- Flexibilidade de horário;
+- Estágio de Pesquisa no Exterior;
+- Formação de recursos humanos;
+- Salário;
+- Satisfação pessoal;
+- Trabalhar com aquilo que realmente gosta.
+:::
+
+:::
+
+::::
+
+
+
+
+
+
+
+## Academia: Dia a Dia
+
+::: {.incremental}
+- Preparar e ministrar aulas;
+- Orientar alunos;
+- Escrever artigos;
+- Participar de congressos;
+- Comisões administrativas;
+- Comisões organizadoras;
+- Comisões científicas;
+- Parecer de artigos;
+- Parecer de projetos de pesquisa;
+- Elaborar e submeter projetos de pesquisa;
+- Reuniões dos colegiados (Dpto, congregação, etc);
+- Extensão.
+:::
+
+
+
+# Otras cositas más
+
+## Outras cositas más: Dicas
+
+::: {.incremental}
+- Desenvolva as _soft skills_;
+- Trabalhe em equipe;
+- Aprenda a programar;
+- Crie um portfolio no Github;
+- Escreva (post, tutoriais, artigos científicos);
+- Não se limite às ementas;
+- Faça iniciação científica;
+- Aprenda o máximo que puder!;
+- Faça atividades extracurriculares;
+- Seja humano.
+:::
+
+
+
+## Outras cositas más: Q&A
+
+
+::: {.incremental}
+- R ou Python?
+- Academia ou Mercado?
+- Professor também é gente?
+- Quais coisas tem interesse em aprender/fazer no futuro próximo?
+:::
+
+
+## Contato
+
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+- Site: 
+  [ctruciosm.github.io](https://ctruciosm.github.io/)
+- E-mail: ctrucios\@unicamp.br
+- Sala: 206 - IMECC
+
+:::
+
+::: {.column width="40%"}
+
+![](imagens/site.png)
+
+:::
+
+
+> A vida universitária pode ter altos e baixos, se precisar conversar com alguém, pode contar comigo.
+
+
+::::
+
+
+
+
+
+
+
